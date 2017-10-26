@@ -5,6 +5,7 @@ import _ from 'lodash';
 import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
+
 const API_KEY = 'AIzaSyAHX0eFEtPcC9j8QgUybzaCGHj-gULxYnM';
 
 class App extends Component {
@@ -16,7 +17,7 @@ class App extends Component {
             selectedVideo: null
         };
         
-        this.videoSearch('surfboards');
+        this.videoSearch('eminem');
     }
 
     videoSearch(term) {
