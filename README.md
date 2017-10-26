@@ -1,12 +1,22 @@
-# Youtube clone-application with ReactJS
+# Youtube clone application with ReactJS
 
-### Getting Started
+Front End:
 
-> git clone 
+1. ReactJS
 
-> cd react-youtube-app
+Back End:
 
-> npm install
+1. NodeJS
 
-> npm start
+Development tools and notes:
+
+1. JavaScript ES6 and JSX technology stack
+
+2. Babel and Webpack transpiler and bundler
+
+3. Google YouTube API
+
+
+
+
 
