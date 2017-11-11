@@ -12,11 +12,9 @@ Back End:
 
 2. YouTube API
 
-Development tools and notes:
+Development tools
 
-1. JavaScript ES6 and JSX technology stack
-
-2. Babel and Webpack transpiler and bundler
+1. Webpack with Babel
 
 
 
