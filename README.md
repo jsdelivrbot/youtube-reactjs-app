@@ -4,13 +4,11 @@ Front End:
 
 1. ReactJS
 
-2. Twitter Bootstrap 4
+2. Bootstrap 4
 
 Back End:
 
-1. NodeJS
-
-2. YouTube API
+1. YouTube API Server
 
 Development tools
 
